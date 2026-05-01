@@ -695,4 +695,11 @@ header{
     width: 102px;
     height: 2px;
 }
+    .banner .banner_1a{
+    display: flex;
+    flex-direction: column;
+}
+.banner h1{
+    font-size: 28px;
+}
 }
